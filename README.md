@@ -1,2 +1,0 @@
-lectora-search-engine
-=====================

@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratitle lectorafileversion="12">
+<titledata titletype="aicc" savedfromdemo="true">
+<currentid>369</currentid>
+<currtheme></currtheme>
+<language>en</language>
+<ribbonpasteoption>6646</ribbonpasteoption>
+</titledata>
+<resourcedata>
+<resource id="38" resourcetype="image">
+<name>radio-selected.png</name>
+<relativelink>images\radio-selected.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="39" resourcetype="image">
+<name>radio-normal.png</name>
+<relativelink>images\radio-normal.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="40" resourcetype="image">
+<name>check-selected.png</name>
+<relativelink>images\check-selected.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="41" resourcetype="image">
+<name>check-normal.png</name>
+<relativelink>images\check-normal.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="78" resourcetype="image">
+<name>Black Roadsign_next_over.png</name>
+<relativelink>images\Black Roadsign_next_over.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="79" resourcetype="image">
+<name>Black Roadsign_next_click.png</name>
+<relativelink>images\Black Roadsign_next_click.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="80" resourcetype="image">
+<name>Black Roadsign_next.png</name>
+<relativelink>images\Black Roadsign_next.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="92" resourcetype="image">
+<name>Black Roadsign_back_over.png</name>
+<relativelink>images\Black Roadsign_back_over.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="93" resourcetype="image">
+<name>Black Roadsign_back_click.png</name>
+<relativelink>images\Black Roadsign_back_click.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="94" resourcetype="image">
+<name>Black Roadsign_back.png</name>
+<relativelink>images\Black Roadsign_back.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="130" resourcetype="image">
+<name>alice02a.gif</name>
+<relativelink>images\alice02a.gif</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="156" resourcetype="image">
+<name>alice03a.gif</name>
+<relativelink>images\alice03a.gif</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="268" resourcetype="image">
+<name>Black Basic Exit_Over.png</name>
+<relativelink>images\Black Basic Exit_Over.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="269" resourcetype="image">
+<name>Black Basic Exit_Click.png</name>
+<relativelink>images\Black Basic Exit_Click.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="270" resourcetype="image">
+<name>Black Basic Exit.png</name>
+<relativelink>images\Black Basic Exit.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="282" resourcetype="image">
+<name>Universal Glossary_over.png</name>
+<relativelink>images\Universal Glossary_over.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="283" resourcetype="image">
+<name>Universal Glossary_click.png</name>
+<relativelink>images\Universal Glossary_click.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="284" resourcetype="image">
+<name>Universal Glossary.png</name>
+<relativelink>images\Universal Glossary.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="350" resourcetype="othersupportfile">
+<name>searchengine.js</name>
+<relativelink>extern\searchengine.js</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+</resourcedata>
+<variabledata>
+<variable id="316">
+<name>SearchEngine</name>
+<initialvalue>0</initialvalue>
+<lastupdated>7274610</lastupdated>
+</variable>
+<variable id="358" referenceobjectid="357">
+<name>SearchEntry</name>
+<initialvalue></initialvalue>
+<lastupdated>0</lastupdated>
+<reserved_variable />
+<automatic_variable />
+<form_variable />
+</variable>
+</variabledata>
+<objectdata>
+<title id="1" center="center">
+<name>SearchEngine Demo</name>
+<lastupdated>1383594554</lastupdated>
+<bgcolor>FFFFFF</bgcolor>
+<textcolor>000000</textcolor>
+<linkcolor>0000FF</linkcolor>
+<width>785</width>
+<height>600</height>
+<font>
+<height>10</height>
+<facename>Arial</facename>
+</font>
+<custformelement formelemtype="radiobutton">
+<onimage customid="38" />
+<offimage customid="39" />
+</custformelement>
+<custformelement formelemtype="checkbox">
+<onimage customid="40" />
+<offimage customid="41" />
+</custformelement>
+<assignableunit id="62" parent="1" timelimitaction="continuenomessage" prereqtype="all">
+<name>A001</name>
+<lastupdated>0</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<autype>Lesson</autype>
+<masteryscore>75</masteryscore>
+<developerid>A001-Dev</developerid>
+<description>Description of Assignable Unit</description>
+<systemid>A001</systemid>
+<systemidint>1</systemidint>
+<chapter id="64" parent="62">
+<name>Chapter 1</name>
+<lastupdated>1365084165</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<button id="267" parent="64" resource="270" ontop="true" proportional="true" mouseoverimage="268" clickedimage="269">
+<name>Black Basic Exit</name>
+<lastupdated>1365084165</lastupdated>
+<possize>
+<point>
+<x>751</x>
+<y>9</y>
+</point>
+<size>
+<cx>26</cx>
+<cy>26</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<action id="271" parent="267" on="mouseclick">
+<name>Black Basic Exit Action</name>
+<lastupdated>0</lastupdated>
+<actionitem actiontaken="exit">
+<browserWnd />
+</actionitem>
+</action>
+</button>
+<toc id="314" parent="64" visible="false" useicons="false" appearance="dropdownlist" scope="title">
+<name>SearchEngine TOC</name>
+<lastupdated>1365084109</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>150</cx>
+<cy>25</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<bgcolor>FFFFFF</bgcolor>
+<textcolor>000000</textcolor>
+<font>
+<height>10</height>
+<facename>Arial</facename>
+</font>
+</toc>
+<other id="313" parent="64" visible="false" externaltype="metatags">
+<name>SearchEngine ExtHTML</name>
+<lastupdated>1383593490</lastupdated>
+<possize>
+<point>
+<x>242</x>
+<y>200</y>
+</point>
+<size>
+<cx>300</cx>
+<cy>200</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<html>&lt;script type=&quot;text/javascript&quot; src=&quot;searchengine.js&quot;&gt;&lt;/script&gt;</html>
+<supportfile id="350" />
+</other>
+<button id="281" parent="64" resource="284" proportional="true" ontop="false" mouseoverimage="282" clickedimage="283">
+<name>SearchEngine Button</name>
+<lastupdated>1383593506</lastupdated>
+<possize>
+<point>
+<x>234</x>
+<y>506</y>
+</point>
+<size>
+<cx>71</cx>
+<cy>70</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<action id="312" parent="281" on="mouseclick">
+<name>OnMClkModVar</name>
+<lastupdated>1365084147</lastupdated>
+<actionitem actiontaken="modifyvariable" target="variable" targetvariable="316" modvariable="set">
+<targetstring>javascript:SearchLectora.show()</targetstring>
+<browserWnd />
+</actionitem>
+</action>
+</button>
+<entryfield id="357" parent="64" formvar="358">
+<name>SearchEntry</name>
+<lastupdated>1383748626</lastupdated>
+<possize>
+<point>
+<x>28</x>
+<y>529</y>
+</point>
+<size>
+<cx>185</cx>
+<cy>21</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<numchars>40</numchars>
+<default></default>
+</entryfield>
+<page id="65" parent="64">
+<name>Page 1</name>
+<lastupdated>1383594554</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<text id="210" parent="65" bordertype="flat" defaulttext="none">
+<name>Text Block 2</name>
+<lastupdated>1365083766</lastupdated>
+<possize>
+<point>
+<x>301</x>
+<y>546</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>38</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<rtf>{\rtf1\ansi\deflang1062\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset186 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs20\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs20\qc\lang1062\hich\f2\loch\f2 Page 1\plain\f1\fs20\par}&#x0A;</rtf>
+<textpublishlang>Inherit</textpublishlang>
+<bordercolor>000000</bordercolor>
+<bordersize>0</bordersize>
+<marginsize>0</marginsize>
+<outlinecolor>000000</outlinecolor>
+</text>
+<button id="171" parent="65" resource="80" ontop="true" proportional="true" mouseoverimage="78" clickedimage="79">
+<name>Black Roadsign_next</name>
+<lastupdated>1365083735</lastupdated>
+<possize>
+<point>
+<x>702</x>
+<y>525</y>
+</point>
+<size>
+<cx>43</cx>
+<cy>33</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<action id="172" parent="171" on="mouseclick">
+<name>Black Roadsign_next Action</name>
+<lastupdated>1365083735</lastupdated>
+<actionitem actiontaken="goto" target="nextpage">
+<browserWnd />
+</actionitem>
+</action>
+</button>
+<text id="66" parent="65" bordertype="flat" defaulttext="none">
+<name>Text Block</name>
+<lastupdated>1365084087</lastupdated>
+<possize>
+<point>
+<x>156</x>
+<y>168</y>
+</point>
+<size>
+<cx>493</cx>
+<cy>260</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<rtf>{\rtf1\ansi\deflang1062\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \froman Times New Roman;}{\f3 \froman \fcharset186 Times New Roman;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;\red0\green120\blue228 ;}&#x0A;{\stylesheet{\f1\fs20\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs20\qc\hich\f2\loch\f2\cf2\fs48 Alice&apos;s Adventures in Wonderland\par\par Lewis Carroll\lang1062\hich\f3\loch\f3\par\par\par\cf3 SearchEngine Demo: \par click the button below to search\lang1062\hich\f2\loch\f2\cf2\par}&#x0A;</rtf>
+<textpublishlang>Inherit</textpublishlang>
+<bordercolor>000000</bordercolor>
+<bordersize>0</bordersize>
+<marginsize>0</marginsize>
+<outlinecolor>000000</outlinecolor>
+</text>
+</page>
+<page id="104" parent="64">
+<name>Page 2</name>
+<lastupdated>1365083626</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<text id="217" parent="104" bordertype="flat" defaulttext="none">
+<name>Text Block 2</name>
+<lastupdated>1365083772</lastupdated>
+<possize>
+<point>
+<x>301</x>
+<y>546</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>38</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<rtf>{\rtf1\ansi\deflang1062\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset186 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs20\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs20\qc\plain\f2\fs20 Page \lang1062\hich\f2\loch\f2 2\par}&#x0A;</rtf>
+<textpublishlang>Inherit</textpublishlang>
+<bordercolor>000000</bordercolor>
+<bordersize>0</bordersize>
+<marginsize>0</marginsize>
+<outlinecolor>000000</outlinecolor>
+</text>
+<button id="183" parent="104" resource="80" ontop="true" proportional="true" mouseoverimage="78" clickedimage="79">
+<name>Black Roadsign_next</name>
+<lastupdated>1365083740</lastupdated>
+<possize>
+<point>
+<x>702</x>
+<y>525</y>
+</point>
+<size>
+<cx>43</cx>
+<cy>33</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<action id="184" parent="183" on="mouseclick">
+<name>Black Roadsign_next Action</name>
+<lastupdated>1365083740</lastupdated>
+<actionitem actiontaken="goto" target="nextpage">
+<browserWnd />
+</actionitem>
+</action>
+</button>
+<button id="181" parent="104" resource="94" ontop="true" proportional="true" mouseoverimage="92" clickedimage="93">
+<name>Black Roadsign_back</name>
+<lastupdated>1365083740</lastupdated>
+<possize>
+<point>
+<x>36</x>
+<y>525</y>
+</point>
+<size>
+<cx>43</cx>
+<cy>33</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<action id="182" parent="181" on="mouseclick">
+<name>Black Roadsign_back Action</name>
+<lastupdated>1365083740</lastupdated>
+<actionitem actiontaken="goto" target="prevpage">
+<browserWnd />
+</actionitem>
+</action>
+</button>
+<image id="138" parent="104" resource="130" proportional="true">
+<name>alice02a</name>
+<lastupdated>1365083777</lastupdated>
+<possize>
+<point>
+<x>305</x>
+<y>268</y>
+</point>
+<size>
+<cx>179</cx>
+<cy>269</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+</image>
+<text id="106" parent="104" bordertype="flat" defaulttext="none">
+<name>Text Block</name>
+<lastupdated>1365083772</lastupdated>
+<possize>
+<point>
+<x>158</x>
+<y>46</y>
+</point>
+<size>
+<cx>493</cx>
+<cy>506</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<rtf>{\rtf1\ansi\deflang1062\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \froman \fcharset186 Times New Roman;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs20\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs20\ql\hich\f2\loch\f2\fs28 Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations &#x0A;in it, `and what is the use of a book,&apos; thought Alice `without pictures or conversation?&apos;\par So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain &#x0A;would be worth the trouble of getting up and picking the daisies, when suddenly a White Rabbit with pink eyes ran close by her.\par}&#x0A;</rtf>
+<textpublishlang>Inherit</textpublishlang>
+<bordercolor>000000</bordercolor>
+<bordersize>0</bordersize>
+<marginsize>0</marginsize>
+<outlinecolor>000000</outlinecolor>
+</text>
+</page>
+<page id="119" parent="64">
+<name>Page 3</name>
+<lastupdated>1365083729</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<text id="231" parent="119" bordertype="flat" defaulttext="none">
+<name>Text Block 2</name>
+<lastupdated>1365083814</lastupdated>
+<possize>
+<point>
+<x>301</x>
+<y>546</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>38</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<rtf>{\rtf1\ansi\deflang1062\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset186 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs20\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs20\qc\plain\f2\fs20 Page \lang1062\hich\f2\loch\f2 3\par}&#x0A;</rtf>
+<textpublishlang>Inherit</textpublishlang>
+<bordercolor>000000</bordercolor>
+<bordersize>0</bordersize>
+<marginsize>0</marginsize>
+<outlinecolor>000000</outlinecolor>
+</text>
+<button id="191" parent="119" resource="80" ontop="true" proportional="true" mouseoverimage="78" clickedimage="79">
+<name>Black Roadsign_next</name>
+<lastupdated>1365083741</lastupdated>
+<possize>
+<point>
+<x>702</x>
+<y>525</y>
+</point>
+<size>
+<cx>43</cx>
+<cy>33</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<action id="192" parent="191" on="mouseclick">
+<name>Black Roadsign_next Action</name>
+<lastupdated>1365083741</lastupdated>
+<actionitem actiontaken="goto" target="nextpage">
+<browserWnd />
+</actionitem>
+</action>
+</button>
+<button id="189" parent="119" resource="94" ontop="true" proportional="true" mouseoverimage="92" clickedimage="93">
+<name>Black Roadsign_back</name>
+<lastupdated>1365083741</lastupdated>
+<possize>
+<point>
+<x>36</x>
+<y>525</y>
+</point>
+<size>
+<cx>43</cx>
+<cy>33</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<action id="190" parent="189" on="mouseclick">
+<name>Black Roadsign_back Action</name>
+<lastupdated>1365083741</lastupdated>
+<actionitem actiontaken="goto" target="prevpage">
+<browserWnd />
+</actionitem>
+</action>
+</button>
+<image id="154" parent="119" resource="156" proportional="true">
+<name>alice03a</name>
+<lastupdated>1365083794</lastupdated>
+<possize>
+<point>
+<x>300</x>
+<y>288</y>
+</point>
+<size>
+<cx>251</cx>
+<cy>238</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+</image>
+<text id="121" parent="119" bordertype="flat" defaulttext="none">
+<name>Text Block</name>
+<lastupdated>1365083789</lastupdated>
+<possize>
+<point>
+<x>158</x>
+<y>46</y>
+</point>
+<size>
+<cx>502</cx>
+<cy>506</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<rtf>{\rtf1\ansi\deflang1062\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \froman \fcharset186 Times New Roman;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs20\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs20\ql\hich\f2\loch\f2\fs28 There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, `Oh dear! Oh dear! I shall be late!&apos; (when she thought it over afterwards, &#x0A;it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on, Alice started to her feet, for it flashed &#x0A;across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole &#x0A;under the hedge.\par}&#x0A;</rtf>
+<textpublishlang>Inherit</textpublishlang>
+<bordercolor>000000</bordercolor>
+<bordersize>0</bordersize>
+<marginsize>0</marginsize>
+<outlinecolor>000000</outlinecolor>
+</text>
+</page>
+<page id="147" parent="64">
+<name>Page 4</name>
+<lastupdated>1365083746</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<action id="264" parent="147" on="show">
+<name>OnShowModVar</name>
+<lastupdated>1365083847</lastupdated>
+<actionitem actiontaken="modifyvariable" target="variable" targetvariable="-273" modvariable="set">
+<targetstring>completed</targetstring>
+<browserWnd />
+</actionitem>
+</action>
+<text id="257" parent="147" bordertype="flat" defaulttext="none">
+<name>Text Block 2</name>
+<lastupdated>1365083808</lastupdated>
+<possize>
+<point>
+<x>301</x>
+<y>546</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>38</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<rtf>{\rtf1\ansi\deflang1062\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset186 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs20\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs20\qc\plain\f2\fs20 Page \lang1062\hich\f2\loch\f2 4 \par (the end)\par}&#x0A;</rtf>
+<textpublishlang>Inherit</textpublishlang>
+<bordercolor>000000</bordercolor>
+<bordersize>0</bordersize>
+<marginsize>0</marginsize>
+<outlinecolor>000000</outlinecolor>
+</text>
+<button id="197" parent="147" resource="94" ontop="true" proportional="true" mouseoverimage="92" clickedimage="93">
+<name>Black Roadsign_back</name>
+<lastupdated>1365083742</lastupdated>
+<possize>
+<point>
+<x>36</x>
+<y>525</y>
+</point>
+<size>
+<cx>43</cx>
+<cy>33</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<action id="198" parent="197" on="mouseclick">
+<name>Black Roadsign_back Action</name>
+<lastupdated>1365083742</lastupdated>
+<actionitem actiontaken="goto" target="prevpage">
+<browserWnd />
+</actionitem>
+</action>
+</button>
+<text id="150" parent="147" bordertype="flat" defaulttext="none">
+<name>Text Block</name>
+<lastupdated>1365083731</lastupdated>
+<possize>
+<point>
+<x>158</x>
+<y>46</y>
+</point>
+<size>
+<cx>493</cx>
+<cy>506</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<rtf>{\rtf1\ansi\deflang1062\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \froman \fcharset186 Times New Roman;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs20\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs20\ql\lang1062\hich\f2\loch\f2\fs28 In another moment down went Alice after it, never once considering how in the world she was to get out again.\lang1062\hich\f2\loch\f2\par\par\lang1062\hich\f2\loch\f2 The rabbit-hole went straight &#x0A;on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.\lang1062\hich\f2\loch\f2\par\par\lang1062\hich\f2\loch\f2 Either &#x0A;the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next. First, she tried to look down and make out what she was coming to, but it was too dark to see anything; &#x0A;then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves; here and there she saw maps and pictures hung upon pegs. She took down a jar from one of the shelves as she passed; it was labelled `ORANGE MARMALADE&apos;, &#x0A;but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody, so managed to put it into one of the cupboards as she fell past it.\lang1062\hich\f2\loch\f2\par}&#x0A;</rtf>
+<textpublishlang>Inherit</textpublishlang>
+<bordercolor>000000</bordercolor>
+<bordersize>0</bordersize>
+<marginsize>0</marginsize>
+<outlinecolor>000000</outlinecolor>
+</text>
+</page>
+</chapter>
+</assignableunit>
+</title>
+</objectdata>
+</lectoratitle>
