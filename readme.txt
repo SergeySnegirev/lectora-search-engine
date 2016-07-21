@@ -1,3 +1,7 @@
+NB! As you might have noticed, this code has not been updated in years. Someday I will find time to come back to it and improve it. For now, use at your own risk. Also, check out the Trivantis community (http://community.trivantis.com) if you need advice or support.
+
+-----
+
 Thank you for taking interest in Search Engine for Lectora. 
 
 THE PROGRAM IS DISTRIBUTED IN THE HOPE THAT IT WILL BE USEFUL, BUT WITHOUT ANY WARRANTY. 
